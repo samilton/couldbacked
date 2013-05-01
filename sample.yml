@@ -1,0 +1,12 @@
+s3:
+  enabled: true
+  api_key: xxxyyyy
+  secret_key: abc123
+  bucket: backup_the_backup
+
+rackspace:
+  enabled: true
+  username: felix_potvin
+  api_key: 123456
+  container: fuzzball
+
