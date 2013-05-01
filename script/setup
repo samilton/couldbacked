@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# TODO Figure out how to confirm Hazel install
+
+# We want to use the system ruby not RVM or rbenv
+sudo /usr/bin/gem install fog
+
+cp sample.yml ~/.cloudbacked
+
